@@ -1,6 +1,6 @@
 # Fadeaway
 
-I am building a RC circuit so that when the switch is open, the three LEDs fade out at different speeds from left to right using RC timing.
+I am building a RC circuit so that when the switch is open, the three LEDs fade out at different speeds from right to left using RC timing.
 
 # What I did
 
