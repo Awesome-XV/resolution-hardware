@@ -3,13 +3,10 @@ A RC circuit built in Falstad using a voltage source, resistors, capacitors, LED
 from right to left using RC timing.
 
 # Link to live demo:
-https://is.gd/CtTkQP It didn't let me upload a video here for some reason so I am just going to upload it to the folder.
+https://is.gd/ERgeHt It didn't let me upload a video here for some reason so I am just going to upload it to the folder.
 
 # How it Works
-1. A 100µF capacitor charges through a 1kΩ resistor from a 9V source
-2. Opening the switch releases the capacitator energy into three parallel LEDs
-3. Each branch has a diode to stop branches from draining into each other
-4. Each branch has different resistor and capacitor values, which makes sure that each LED fades away one by one
-LED A fades the fastest
-LED B fades the second fastest
-LED C fades the slowest
+1. A capacitor charges through a 1kΩ resistor from a 9V source
+2. Closing the switch turns on all three LEDs, charging the capacitors with each LED
+3. Opening the switch cuts power, and each capacitor slowly discharges through its LED, keeping it glowing
+4. Each branch has a different resistor value, so each LED will have a different fade time
