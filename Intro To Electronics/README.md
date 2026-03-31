@@ -3,7 +3,7 @@ A RC circuit built in Falstad using a voltage source, resistors, capacitors, LED
 from left to right using RC timing.
 
 # Link to live demo:
-https://is.gd/fG5sv0 It didn't let me upload a video here for some reason so I am just going to upload it to the folder.
+https://is.gd/CtTkQP It didn't let me upload a video here for some reason so I am just going to upload it to the folder.
 
 # How it Works
 1. A 100µF capacitor charges through a 1kΩ resistor from a 9V source
