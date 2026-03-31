@@ -1,6 +1,6 @@
 # Description 
 A RC circuit built in Falstad using a voltage source, resistors, capacitors, LEDs, diodes, and a switch. When the switch is open, the three LEDs fade out at different speeds 
-from left to right using RC timing.
+from right to left using RC timing.
 
 # Link to live demo:
 https://is.gd/CtTkQP It didn't let me upload a video here for some reason so I am just going to upload it to the folder.
